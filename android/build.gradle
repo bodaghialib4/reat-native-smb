@@ -1,8 +1,9 @@
 
 buildscript {
     repositories {
-        jcenter()
+//        jcenter()
         google()
+        mavenCentral()
         maven { url 'https://maven.google.com' }
     }
 
