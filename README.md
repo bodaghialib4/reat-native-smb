@@ -2,7 +2,11 @@
 # react-native-smb
 
 ### this is a smb client that work only in android (iOS not implemented)
- tested in RN 61.2
+ tested in RN 0.61.2 and RN 0.75.3
+
+
+[link to testing project (branches v-0-61-2 & v-0-75-3)](https://github.com/bodaghialib4/example_RNSmb)
+
 
 ## Getting started
 
